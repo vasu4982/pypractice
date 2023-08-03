@@ -1,0 +1,10 @@
+INSERT INTO peopleInfo (firstName, lastName, age, gender) values ("Mary", "Jones", 21, "female");
+INSERT INTO peopleInfo (firstName, lastName, age, gender) values ("Jill", "Harrington", 19, "female");
+INSERT INTO peopleInfo (firstName, lastName, age, gender) values ("Bob", "Mill", 26, "male");
+INSERT INTO peopleInfo (firstName, lastName, age, gender) values ("Alfred", "Jinks", 23, "male");
+INSERT INTO peopleInfo (firstName, lastName, age, gender) values ("Sandra", "Tussel", 31, "female");
+INSERT INTO peopleInfo (firstName, lastName, age, gender) values ("Mike", "Habraha", 45, "male");
+INSERT INTO peopleInfo (firstName, lastName, age, gender) values ("John", "Murry", 22, "male");
+INSERT INTO peopleInfo (firstName, lastName, age, gender) values ("Jake", "Mechowsky", 34, "male");
+INSERT INTO peopleInfo (firstName, lastName, age, gender) values ("Hobrah", "Hinbrah", 24, "hermaphrodite");
+INSERT INTO peopleInfo (firstName, lastName, age, gender) values ("Laura", "Smith", 17, "female");
